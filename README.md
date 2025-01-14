@@ -1,4 +1,4 @@
-# 🔢 Análisis de la Ejecución de Ingresos Públicos en Brasil
+# 🔢 Análisis de los Ingresos Públicos en Brasil
 
 Este proyecto realiza un análisis exploratorio de los ingresos públicos recaudados por el gobierno de Brasil entre 2013 y 2021. A través de una limpieza y consolidación de datos, junto con técnicas de visualización, se identifican tendencias, discrepancias y áreas de mejora en la gestión presupuestaria.
 
@@ -46,5 +46,4 @@ Agradecemos cualquier contribución que mejore este análisis. Si tienes sugeren
 
 ## 👤 Autor
 
-**[Tu Nombre]**
 - GitHub: [Victor Forés](https://github.com/Vic4s)
